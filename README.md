@@ -1,2 +1,1 @@
-# Gatemaster_static
-Static markups for Gatemaster
+# Web-Mini-Project
